@@ -11,7 +11,18 @@ body{
     background-color: white;
 }
 .header{ 
-       background-color: #f1ede6;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 35px 12%;
+    background-color: #f5efe4;
+    backdrop-filter: blur(10px)
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+
 }
 image{
     size-adjust: ;
