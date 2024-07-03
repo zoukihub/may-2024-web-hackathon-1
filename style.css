@@ -16,7 +16,7 @@ body{
     left: 0;
     width: 100%;
     padding: 35px 12%;
-    background-color: #f5efe4;
+    background-color: #ffffff;
     backdrop-filter: blur(10px)
     display: flex;
     justify-content: space-between;
@@ -24,6 +24,17 @@ body{
     z-index: 100;
 
 }
-image{
-    size-adjust: ;
+.logo{
+    font-size: 25px;
+    color: black;
+    font-weight: 600;
+    transition: 0.3s ease;
+}
+.logo:hover{
+    color: orangered
+    text shadow: 0 0 25px orangered
+                 0 0 50px orangered
+    transform: scale(1.1);
+}
+
 }
