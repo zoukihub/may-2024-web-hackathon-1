@@ -1,7 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+
 body{
     background-color: white;
 }
-header{ 
+.header{ 
        background-color: #f1ede6;
 }
 image{
