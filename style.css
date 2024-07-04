@@ -83,3 +83,9 @@ span{
     margin-bottom: 20px;
     padding: 10px;
 }
+img{
+    width: 500px;
+    height: auto;
+    right:auto
+    padding: 0px
+}
