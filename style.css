@@ -84,3 +84,8 @@ span{
     top: -20px
     right: 100px
 }
+.p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
