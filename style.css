@@ -53,6 +53,9 @@ span{
     border-bottom: 3px solid orangered;
 }
 .contact{
+    position: relative;
+    top: -20px;
+    left: 900px;
     padding: 10px 28px;
     background-color: black;
     color: white;
