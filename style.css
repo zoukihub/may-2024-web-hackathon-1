@@ -25,6 +25,9 @@ header{
     z-index: 100;
 
 }
+main {
+    padding-top: 150px;
+}
 .logo{
     font-size: 25px;
     color: black;
